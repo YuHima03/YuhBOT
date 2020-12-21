@@ -111,4 +111,4 @@ async def AyasiiNihongo(ctx, arg):
         await ctx.send("この機能は現在利用できません。\n`y!reload`コマンドを実行するか管理者にお問い合わせください")
 
 #実行
-bot.run('NzU2NDg2MTEzMDQ0MDcwNDIw.X2SimA.uQH7s13X1Q5MHbSrsPz8qYplzyg')
+bot.run('token')
